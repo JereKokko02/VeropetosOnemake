@@ -1,0 +1,2 @@
+/tmp/olentiedosto:
+  file.managed
